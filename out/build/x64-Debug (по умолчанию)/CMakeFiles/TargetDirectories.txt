@@ -1,0 +1,5 @@
+C:/Users/asus/source/repos/ekz/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
+C:/Users/asus/source/repos/ekz/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
+C:/Users/asus/source/repos/ekz/out/build/x64-Debug (по умолчанию)/ekz/CMakeFiles/ekz.dir
+C:/Users/asus/source/repos/ekz/out/build/x64-Debug (по умолчанию)/ekz/CMakeFiles/edit_cache.dir
+C:/Users/asus/source/repos/ekz/out/build/x64-Debug (по умолчанию)/ekz/CMakeFiles/rebuild_cache.dir
